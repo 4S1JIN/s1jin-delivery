@@ -42,7 +42,7 @@ git clone https://github.com/4S1JIN/s1jin-delivery.git
 - (참고) 현재는 postgresql만 존재하고 포트는 `5432:5432` 이다.
 
 ### 3. 애플리케이션 정상 실행 확인
-- 스프링 애플리케이션 (`DeliveryApplication`)이 정상 실행되는 지 확인한다.
+- 스프링 애플리케이션 (`DeliveryApplication`)이 정상 실행되는지 확인한다.
 
 <br><br>
 
