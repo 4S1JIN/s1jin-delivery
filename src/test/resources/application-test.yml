@@ -1,0 +1,17 @@
+spring:
+  jpa:
+    hibernate:
+      ddl-auto: update
+
+jwt:
+  secret: "123456789012345678901234567890123456789012345678901234567890"
+
+cloud:
+  aws:
+    credentials:
+      access-key: "access_key"
+      secret-key: "secret_key"
+
+gemini:
+  api:
+    key: "jemini_api_key"
